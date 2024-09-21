@@ -1,8 +1,8 @@
-# docker
+# Docker
 Staring learning about the docker basics
 First local host : using mongo db and mongo express
 
-# Learnings:
+Learnings:
 About the basics of docker , about images and containers
 About the run command and other important cli-references
 Wrote the first yaml file for running this-
