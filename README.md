@@ -1,6 +1,6 @@
 # Docker
 Staring learning about the docker basics
-First local host : using mongo db and mongo express
+First local host : using mongo db and mongo express!
 
 Learnings:
 About the basics of docker , about images and containers
